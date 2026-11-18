@@ -2,7 +2,7 @@
 
 # Fredy Villarreal - Engineer Software Student (UTP) # 
 
-### 🎓 Fullstack, TypeScript, Software Architect, DevOps, Machine Learning, Vibe Coding, Cybersecurity and Modern IT Specialist
+### Fullstack, TypeScript, Software Architect, DevOps, Machine Learning, Vibe Coding, Cybersecurity and Modern IT Specialist
 
 <br>
 
@@ -42,14 +42,40 @@
 
 ## 🛠️ Mi Stack Tecnológico
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+## 🛠️ Mi Stack Tecnológico
 
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/><br>
+      <b>TypeScript</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/><br>
+      <b>React</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/><br>
+      <b>Node.js</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/><br>
+      <b>PostgreSQL</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/><br>
+      <b>Docker</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/><br>
+      <b>Git</b>
+    </td>
+  </tr>
+</table>
 <br><br>
 
 ## 📊 Mis Estadísticas
