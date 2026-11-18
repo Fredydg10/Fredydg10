@@ -7,7 +7,7 @@
 <br>
 
 <!-- Animación de texto escribiéndose -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=25&color=00ff88&lines=Fullstack+Development;Machine+Learning;Cybersecurity;DevOps;Vibe+Coding" />
+<img src="https://readme-typing-svg.demolab.com/?font=monospace&size=30&color=39ff14&center=true&width=450&height=40&lines=Fullstack+Development;Machine+Learning;Cybersecurity;DevOps;Vibe+Coding" />
 
 <br>
 <hr>
@@ -30,8 +30,8 @@
       <b>Automatización</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/openai/white" height="40"/><br>
-      <b>Inteligencia Artificial</b>
+      <img src="https://cdn.simpleicons.org/huggingface/white" height="40"/><br>
+      <b>Inteligencia<br>Artificial</b>
     </td>
   </tr>
 </table>
