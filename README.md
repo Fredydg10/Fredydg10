@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fredy Villarreal - Engineer Software Student (UTP) # 
+# Fredy Villarreal - Software Engineering Student (UTP) # 
 
 ### Fullstack, TypeScript, Software Architect, DevOps, Machine Learning, Vibe Coding, Cybersecurity and Modern IT Specialist
 
