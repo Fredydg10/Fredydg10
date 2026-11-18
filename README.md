@@ -42,8 +42,6 @@
 
 ## 🛠️ Mi Stack Tecnológico
 
-## 🛠️ Mi Stack Tecnológico
-
 <table>
   <tr>
     <td align="center" width="90">
