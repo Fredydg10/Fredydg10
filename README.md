@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Fredydg10/Fredydg10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Fredy Villarreal 👋
 
-Here are some ideas to get you started:
+### 🎓 Fullstack, TypeScript, Software Architect, DevOps, Machine Learning, Vibe Coding, Cybersecurity and Modern IT Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<!-- Animación de texto escribiéndose -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=25&color=00ff88&lines=Fullstack+Development;Machine+Learning;Cybersecurity;DevOps;Vibe+Coding" />
+
+<br>
+<hr>
+<br>
+
+## 🎯 Mis Intereses
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/github/white" height="40"/><br>
+      <b>Sistemas</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/apachekafka/white" height="40"/><br>
+      <b>Datos</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/githubactions/white" height="40"/><br>
+      <b>Automatización</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/openai/white" height="40"/><br>
+      <b>Inteligencia Artificial</b>
+    </td>
+  </tr>
+</table>
+
+<br>
+<hr>
+<br>
+
+## 🛠️ Mi Stack Tecnológico
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+
+<br><br>
+
+## 📊 Mis Estadísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fredydg10&show_icons=true&theme=github_dark&hide_border=true" width="450"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fredydg10&theme=github_dark" width="450"/>
+
+</div>
