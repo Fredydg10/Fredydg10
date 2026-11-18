@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Fredy Villarreal 👋
+# Fredy Villarreal Engineer Software Studen # 
 
 ### 🎓 Fullstack, TypeScript, Software Architect, DevOps, Machine Learning, Vibe Coding, Cybersecurity and Modern IT Specialist
 
