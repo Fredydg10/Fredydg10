@@ -79,8 +79,6 @@
 <br><br>
 
 ## 📊 Mis Estadísticas
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fredydg10&show_icons=true&theme=github_dark&hide_border=true" width="450"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fredydg10&theme=github_dark" width="450"/>
 
 </div>
